@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T03:11:03.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mYxSGVxYjlSJCs8k4VCh" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T03:11:16.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OpiXVHRW-IOLS-LrdyjG" version="23.1.6" type="github">
   <diagram name="Page-1" id="Dgui2ewjFFd2ueu6BchI">
     <mxGraphModel dx="2537" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="I8S5nlit5bZTagVKDZSx-54" value="Invalid stock refers to missing / damaged stock by company agreement.&lt;br&gt;Invalid stock can decreasing available stock" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="555" y="356.5" width="170" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="I8S5nlit5bZTagVKDZSx-55" value="Manual Input / Barcode Scan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="164" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
