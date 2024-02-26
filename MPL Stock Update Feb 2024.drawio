@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:11:14.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ADu9KhKBRknBXLqS20Yo" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:12:03.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XKxSt-e-ZtjcHt7QERz7" version="23.1.6" type="github" pages="3">
   <diagram name="Page-1" id="Dgui2ewjFFd2ueu6BchI">
     <mxGraphModel dx="4887" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -476,7 +476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xyIR9KfyVWT12vw82RRg" name="CASE DIAGRAM">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,7 +519,7 @@
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-28" target="mSWI1AmOK4kgjw-HtzPu-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-102" target="mSWI1AmOK4kgjw-HtzPu-107">
+        <mxCell id="mSWI1AmOK4kgjw-HtzPu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-102" target="mSWI1AmOK4kgjw-HtzPu-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -739,7 +739,7 @@
           <mxGeometry x="315" y="747" width="100" height="10" as="geometry" />
         </mxCell>
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-107" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1050" width="70" height="30" as="geometry" />
+          <mxGeometry x="335" y="1170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="610" width="140" height="70" as="geometry" />
@@ -752,6 +752,12 @@
         </mxCell>
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-113" value="Can use barcode scanner for&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;Selecting goods" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="303" y="660" width="124" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mSWI1AmOK4kgjw-HtzPu-114" value="Print Showing Notes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="1050" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mSWI1AmOK4kgjw-HtzPu-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-114" target="mSWI1AmOK4kgjw-HtzPu-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
