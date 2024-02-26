@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T08:17:16.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W12tlGBOjSZgKjLWLTcT" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-26T08:21:45.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PrBgsB2J8tK9KpIshRpt" version="23.1.6" type="github" pages="3">
   <diagram name="Page-1" id="Dgui2ewjFFd2ueu6BchI">
-    <mxGraphModel dx="4887" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2435" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,8 +262,8 @@
         <mxCell id="I8S5nlit5bZTagVKDZSx-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I8S5nlit5bZTagVKDZSx-105" target="I8S5nlit5bZTagVKDZSx-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I8S5nlit5bZTagVKDZSx-120" value="In, Purchasing&lt;br&gt;In, Marketing Showing Return&lt;br&gt;&lt;br&gt;Out, Marketing Showing Out&lt;br&gt;Out, Sold&lt;br&gt;Out, Invalid Stock" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="650" width="280" height="100" as="geometry" />
+        <mxCell id="I8S5nlit5bZTagVKDZSx-120" value="In, Purchasing&lt;br&gt;In, Marketing Showing Return&lt;br&gt;&lt;br&gt;Out, Marketing Showing Out&lt;br&gt;Out, Sold&lt;br&gt;Out, Missing&lt;br&gt;Out, Invalid Stock" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="670" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="I8S5nlit5bZTagVKDZSx-122" value="delivery_notes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-780" y="900" width="280" height="90" as="geometry" />
@@ -476,7 +476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xyIR9KfyVWT12vw82RRg" name="CASE DIAGRAM">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1017,29 +1017,23 @@
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-181" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="855" y="1330" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-182" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="770" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-183" value="Select Related Product" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="823" y="776" width="124" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-184" value="&lt;b&gt;Product A&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="823" y="800" width="124" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-185" value="Can use barcode scanner for&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;Selecting goods" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="823" y="820" width="124" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-186" value="Print Showing Notes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="1210" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mSWI1AmOK4kgjw-HtzPu-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-186" target="mSWI1AmOK4kgjw-HtzPu-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-189" value="Is Complete" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="616" width="80" height="80" as="geometry" />
+        <mxCell id="mSWI1AmOK4kgjw-HtzPu-189" value="Is Complete ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="823.75" y="616" width="122.5" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="mSWI1AmOK4kgjw-HtzPu-190" value="Product Checking" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-188" target="mSWI1AmOK4kgjw-HtzPu-189">
+        <mxCell id="mSWI1AmOK4kgjw-HtzPu-191" value="Product Checking&lt;br&gt;With Manual Input or Barcode Scanner On Label" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mSWI1AmOK4kgjw-HtzPu-121" target="mSWI1AmOK4kgjw-HtzPu-189">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSWI1AmOK4kgjw-HtzPu-193" value="Is Missing ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="613" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j1tRius_RwwKJgCUhVbJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
