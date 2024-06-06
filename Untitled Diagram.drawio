@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T08:46:32.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UXac0DQEp0Z66h8MoJDx" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T08:47:09.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2M-x2yfaQIFxDbgfuArM" version="24.4.14" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1014,9 +1014,6 @@
         <mxCell id="had_2TGjaqTiBQlga1Ti-14" value="Order line is to connecting beetween dn, order, or invoice table into product table&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Discount type can be amount or percent&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="had_2TGjaqTiBQlga1Ti-15" vertex="1">
           <mxGeometry y="390" width="145" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KSZUW4VwQD1sjJIpIFRa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="noPEeRLkuDftKfmqZl7O-1" source="KSZUW4VwQD1sjJIpIFRa-2" target="wak32uC3i5pyfPqoQ54E-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KSZUW4VwQD1sjJIpIFRa-28" value="" style="group" vertex="1" connectable="0" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="-140" y="340" width="140" height="230" as="geometry" />
         </mxCell>
@@ -1136,7 +1133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KSZUW4VwQD1sjJIpIFRa-57" value="" style="group" vertex="1" connectable="0" parent="noPEeRLkuDftKfmqZl7O-1">
-          <mxGeometry x="-450" y="1340" width="140" height="300" as="geometry" />
+          <mxGeometry x="-640" y="1540" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="KSZUW4VwQD1sjJIpIFRa-0" value="prd_transactionTb" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="KSZUW4VwQD1sjJIpIFRa-57">
           <mxGeometry width="140" height="180" as="geometry" />
@@ -1220,6 +1217,9 @@
         </mxCell>
         <mxCell id="KSZUW4VwQD1sjJIpIFRa-86" value="email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="KSZUW4VwQD1sjJIpIFRa-83">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSZUW4VwQD1sjJIpIFRa-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="noPEeRLkuDftKfmqZl7O-1" source="KSZUW4VwQD1sjJIpIFRa-0" target="wak32uC3i5pyfPqoQ54E-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
