@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T06:52:18.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Rf6sfZN4tbGhT79l-oQh" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T06:52:44.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cFcqOQG-_19LE_IUJKUR" version="24.4.14" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -854,7 +854,7 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-0" value="invoicesTb" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
-          <mxGeometry x="240" y="680" width="140" height="210" as="geometry" />
+          <mxGeometry x="240" y="680" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-1" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wak32uC3i5pyfPqoQ54E-0" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -873,6 +873,9 @@
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-6" value="total_amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wak32uC3i5pyfPqoQ54E-0" vertex="1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSZUW4VwQD1sjJIpIFRa-18" value="notes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wak32uC3i5pyfPqoQ54E-0">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-17" value="productsTb" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
           <mxGeometry x="-350" y="80" width="140" height="150" as="geometry" />
@@ -901,7 +904,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-30" value="delivery_notesTb" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
-          <mxGeometry x="-40" y="600" width="140" height="180" as="geometry" />
+          <mxGeometry x="-40" y="600" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-31" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wak32uC3i5pyfPqoQ54E-30" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -917,6 +920,9 @@
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-35" value="status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="wak32uC3i5pyfPqoQ54E-30" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KSZUW4VwQD1sjJIpIFRa-19" value="notes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wak32uC3i5pyfPqoQ54E-30">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wak32uC3i5pyfPqoQ54E-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Order Process&lt;/h1&gt;&lt;p&gt;1. Create order number based on Surat Pesanan&lt;/p&gt;&lt;p&gt;2. Create delivery note, wait until all item is fully delivered&lt;/p&gt;&lt;p&gt;3. Create invoice&lt;/p&gt;&lt;p&gt;4. When payments may occurs ask create tax invoice&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
           <mxGeometry x="50" y="-10" width="180" height="190" as="geometry" />
