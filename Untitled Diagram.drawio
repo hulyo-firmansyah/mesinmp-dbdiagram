@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T07:48:55.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DXKB1f1bI1hdDNHvfTnV" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-07T07:49:22.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pRuVqufKFfR3wKkk4MQZ" version="24.4.14" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -887,7 +887,7 @@
         <mxCell id="wak32uC3i5pyfPqoQ54E-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Order Process&lt;/h1&gt;&lt;p&gt;1. Create order number based on Surat Pesanan&lt;/p&gt;&lt;p&gt;2. Create delivery note, wait until all item is fully delivered&lt;/p&gt;&lt;p&gt;3. Create invoice&lt;/p&gt;&lt;p&gt;4. When payments may occurs ask create tax invoice&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
           <mxGeometry x="-170" y="-90" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="KSZUW4VwQD1sjJIpIFRa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="noPEeRLkuDftKfmqZl7O-1" source="wak32uC3i5pyfPqoQ54E-65" target="noPEeRLkuDftKfmqZl7O-17" edge="1">
+        <mxCell id="KSZUW4VwQD1sjJIpIFRa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERzeroToMany;startFill=0;" parent="noPEeRLkuDftKfmqZl7O-1" source="wak32uC3i5pyfPqoQ54E-65" target="noPEeRLkuDftKfmqZl7O-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="625" />
