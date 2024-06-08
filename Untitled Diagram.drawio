@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T07:06:08.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OSspZ6dwRA5VwSsIfLwX" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-08T07:07:51.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="d-HRqWI3_bqINp8gy7j_" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of DB" id="Ux1yiIbGK_VPBOaDfaYx">
-    <mxGraphModel dx="3134" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2689" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="noPEeRLkuDftKfmqZl7O-0" />
         <mxCell id="noPEeRLkuDftKfmqZl7O-1" parent="noPEeRLkuDftKfmqZl7O-0" />
@@ -1995,7 +1995,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KYcJbBbYkXP4aOHnaVQz-11" value="revision" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
-          <mxGeometry x="450" y="-200" width="140" height="120" as="geometry" />
+          <mxGeometry x="240" y="5" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KYcJbBbYkXP4aOHnaVQz-12" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KYcJbBbYkXP4aOHnaVQz-11" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -2007,7 +2007,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KYcJbBbYkXP4aOHnaVQz-15" value="so" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
-          <mxGeometry x="280" y="-200" width="140" height="120" as="geometry" />
+          <mxGeometry x="70" y="5" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KYcJbBbYkXP4aOHnaVQz-16" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="KYcJbBbYkXP4aOHnaVQz-15" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -2054,6 +2054,24 @@
         </mxCell>
         <mxCell id="w8lBsnElHFfGaxM0Aoh--13" value="Document must referense into version of 0.&lt;div&gt;Marketing Can Only Make Request of SO, and Warehouse staff should check it&#39;s Surat Pesanan order&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="213" y="490" width="107" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--21" value="Marketing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="90" y="-250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--22" value="Input Sales Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="330" y="-250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="-230" as="sourcePoint" />
+            <mxPoint x="320" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--24" value="Informing new order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="230" y="-280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--25" value="Warehouse Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="335" y="-290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
