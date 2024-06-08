@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T07:07:51.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="d-HRqWI3_bqINp8gy7j_" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-08T07:08:37.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="x6cyu19SAbUKkNM919j4" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2070,8 +2070,11 @@
         <mxCell id="w8lBsnElHFfGaxM0Aoh--24" value="Informing new order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="230" y="-280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w8lBsnElHFfGaxM0Aoh--25" value="Warehouse Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
-          <mxGeometry x="335" y="-290" width="110" height="30" as="geometry" />
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--25" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="335" y="-280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--26" value="SO Information Form, Product Name, etc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="335" y="-210" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
