@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T06:28:00.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="No42SIrUprwsaec2Z6iO" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-08T06:30:54.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="atHhnl33gdb9t3O4fTDD" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1689,7 +1689,7 @@
           <mxGeometry x="-70" y="280" width="280" height="270" as="geometry" />
         </mxCell>
         <mxCell id="noPEeRLkuDftKfmqZl7O-130" value="sales_ordersTb" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="BxSa6UO46-mU6kXuMjrG-65" vertex="1">
-          <mxGeometry x="140" width="140" height="270" as="geometry" />
+          <mxGeometry x="140" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="noPEeRLkuDftKfmqZl7O-131" value="id PK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-130" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -1712,8 +1712,11 @@
         <mxCell id="cdFzhxMQB1qXpoVVzO1L-113" value="notes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-130" vertex="1">
           <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="noPEeRLkuDftKfmqZl7O-135" value="status_id FK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-130" vertex="1">
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--0" value="revision_number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-130">
           <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="noPEeRLkuDftKfmqZl7O-135" value="status_id FK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-130" vertex="1">
+          <mxGeometry y="270" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxSa6UO46-mU6kXuMjrG-63" value="Staff or marketing who create Order" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="BxSa6UO46-mU6kXuMjrG-65" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
