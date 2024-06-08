@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T07:29:21.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oc2rAMbAMbdLewIDXnfD" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-08T07:29:26.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DhpEWvjYlIs3RIoXoIBz" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2127,8 +2127,8 @@
         <mxCell id="w8lBsnElHFfGaxM0Aoh--43" value="Not Available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=25;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="960" y="-250" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w8lBsnElHFfGaxM0Aoh--44" value="Available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
-          <mxGeometry x="950" y="-360" width="110" height="30" as="geometry" />
+        <mxCell id="w8lBsnElHFfGaxM0Aoh--44" value="Available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+          <mxGeometry x="950" y="-400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8lBsnElHFfGaxM0Aoh--45" value="Order Product" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="1090" y="-270" width="120" height="40" as="geometry" />
