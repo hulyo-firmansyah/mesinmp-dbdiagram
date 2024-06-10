@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T07:09:31.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2fRtjI0gyGweYdqXL0dJ" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-10T07:10:26.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AGt-H6J0cOcaMsKmTVnD" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of DB" id="Ux1yiIbGK_VPBOaDfaYx">
-    <mxGraphModel dx="2596" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2803" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="noPEeRLkuDftKfmqZl7O-0" />
         <mxCell id="noPEeRLkuDftKfmqZl7O-1" parent="noPEeRLkuDftKfmqZl7O-0" />
@@ -2273,11 +2273,11 @@
         <mxCell id="GpieAgLX_QELyNMqWPru-6" value="Sales Order" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="1310" y="190" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GpieAgLX_QELyNMqWPru-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Record Date : 5 jun 2024&lt;/div&gt;Order Date: 5 jun 2024&lt;div&gt;Delivery: 10 jun 2024&lt;/div&gt;&lt;div&gt;Reference: SP-001/VI/24&lt;/div&gt;&lt;div&gt;SO: SO-001/VI/24&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+        <mxCell id="GpieAgLX_QELyNMqWPru-7" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Record Date : 5 jun 2024&lt;/div&gt;Order Date: 5 jun 2024&lt;div style=&quot;font-size: 12px;&quot;&gt;Delivery: 10 jun 2024&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Reference: SP-001/VI/24&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;SO: SO-001/VI/24&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontStyle=0;horizontal=1;fontSize=12;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="1310" y="220" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GpieAgLX_QELyNMqWPru-8" value="No&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Item&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Qty&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Price&lt;div&gt;1&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Apar&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;20.000&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
-          <mxGeometry x="1310" y="310" width="210" height="38" as="geometry" />
+          <mxGeometry x="1310" y="300" width="210" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
