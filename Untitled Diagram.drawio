@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T09:52:42.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IHF_-6TfK5ksLAbrOLV0" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-11T09:53:21.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QdBwQXVyUs5UfK3jobgb" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of DB" id="Ux1yiIbGK_VPBOaDfaYx">
-    <mxGraphModel dx="3134" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2383" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="noPEeRLkuDftKfmqZl7O-0" />
         <mxCell id="noPEeRLkuDftKfmqZl7O-1" parent="noPEeRLkuDftKfmqZl7O-0" />
@@ -1394,6 +1394,7 @@
         <mxCell id="cdFzhxMQB1qXpoVVzO1L-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERone;endFill=0;" parent="noPEeRLkuDftKfmqZl7O-1" source="cdFzhxMQB1qXpoVVzO1L-46" target="cdFzhxMQB1qXpoVVzO1L-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="520" y="1565" />
               <mxPoint x="520" y="1320" />
               <mxPoint x="160" y="1320" />
             </Array>
@@ -1407,6 +1408,7 @@
         <mxCell id="cdFzhxMQB1qXpoVVzO1L-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERone;endFill=0;" parent="noPEeRLkuDftKfmqZl7O-1" source="cdFzhxMQB1qXpoVVzO1L-46" target="noPEeRLkuDftKfmqZl7O-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="530" y="1560" />
               <mxPoint x="530" y="1290" />
               <mxPoint x="-370" y="1290" />
               <mxPoint x="-370" y="650" />
@@ -1414,7 +1416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cdFzhxMQB1qXpoVVzO1L-46" value="purchase_invoicesTb" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="noPEeRLkuDftKfmqZl7O-1" vertex="1">
-          <mxGeometry x="470" y="1370" width="140" height="360" as="geometry" />
+          <mxGeometry x="620" y="1370" width="140" height="360" as="geometry" />
         </mxCell>
         <mxCell id="cdFzhxMQB1qXpoVVzO1L-47" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="cdFzhxMQB1qXpoVVzO1L-46" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -1456,7 +1458,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="1800" />
-              <mxPoint x="530" y="1800" />
+              <mxPoint x="700" y="1800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1482,7 +1484,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="1810" />
-              <mxPoint x="520" y="1810" />
+              <mxPoint x="690" y="1810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2067,6 +2069,7 @@
               <mxPoint x="-360" y="1530" />
               <mxPoint x="-360" y="1340" />
               <mxPoint x="540" y="1340" />
+              <mxPoint x="540" y="1550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2082,6 +2085,7 @@
               <mxPoint x="-350" y="1540" />
               <mxPoint x="-350" y="1350" />
               <mxPoint x="550" y="1350" />
+              <mxPoint x="550" y="1540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2488,10 +2492,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EP8LjCx89G6AkI0A3Z6k-6" value="Delivery Number&lt;div&gt;Invoice Number&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Refers to user number format&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
-          <mxGeometry x="760" y="1370" width="160" height="70" as="geometry" />
+          <mxGeometry x="-230" y="1400" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EP8LjCx89G6AkI0A3Z6k-7" value="Supplier doesn&#39;t always have number on it&#39;s invoice" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
-          <mxGeometry x="630" y="1400" width="110" height="70" as="geometry" />
+          <mxGeometry x="780" y="1400" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
