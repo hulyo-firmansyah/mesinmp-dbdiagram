@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T09:51:29.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5_NgIAbqijUBQYIrh8Q0" version="24.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-11T09:51:33.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="We9DV6lOm4lF5sb5sKZo" version="24.5.2" type="github" pages="3">
   <diagram name="Page-1" id="UAmyIE6Dd2D4Il7Edenf">
     <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2490,7 +2490,7 @@
         <mxCell id="EP8LjCx89G6AkI0A3Z6k-6" value="Delivery Number&lt;div&gt;Invoice Number&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Refers to user number format&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="760" y="1370" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EP8LjCx89G6AkI0A3Z6k-7" value="Supplier doesn&#39;t always have number on it&#39;s invoice" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
+        <mxCell id="EP8LjCx89G6AkI0A3Z6k-7" value="Supplier doesn&#39;t always have number on it&#39;s invoice" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="noPEeRLkuDftKfmqZl7O-1">
           <mxGeometry x="630" y="1400" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
